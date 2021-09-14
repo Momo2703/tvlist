@@ -1,4 +1,42 @@
 #EXTM3U
+
+
+
+#EXTINF:-1 group-title="Quran", Quran Makka
+https://cllive.itworkscdn.net/ksaquranlive/token=nva=1631660957~dirs=1~hash=0312b7e565b8b7a45694b/ksaquran.smil/ksaquran_chunks.m3u8
+#EXTINF:-1 group-title="Quran", Quran Sunna
+https://cllive.itworkscdn.net/ksasunnalive/token=nva=1631661045~dirs=1~hash=0e2206f60f98d4be72a0a/ksasunna.smil/ksasunna_chunks.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="News", TRT ar
+https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="News", Mekameleen 
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
+#EXTINF:-1 group-title="News", El Sharq
+https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+#EXTINF:-1 group-title="News", Aj Net Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 group-title="News", Aj Mubasher
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 group-title="News", Sky New ar
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 group-title="News", 
+
+#EXTINF:-1 group-title="News", 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Rotana", Rotana kids
 https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_1080p/chunks.m3u8?p=48&s=1631639454&e=1631725854&cf=1631725854&h=9be5cbb9e84561f77db4db864b7d74c0
 #EXTINF:-1 group-title="Rotana", Rotana Cinema
@@ -31,3 +69,21 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
 #EXTINF:-1 group-title="MBC", MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
+#EXTINF:-1 group-title="MBC", MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
+#EXTINF:-1 group-title="MBC", MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
+#EXTINF:-1 group-title="MBC", MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
+#EXTINF:-1 group-title="MBC", MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
+#EXTINF:-1 group-title="MBC", MBC Variety
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
+#EXTINF:-1 group-title="MBC", MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
+
+
+
+
+
+
