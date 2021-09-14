@@ -25,9 +25,6 @@ https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 group-title="News", Sky New ar
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:-1 group-title="News", 
-
-#EXTINF:-1 group-title="News", 
 
 
 
@@ -84,6 +81,9 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 
 
 
-
-
-
+#EXTINF:-1 group-title="Sport", beIN sport 1
+https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_1.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&session_data=1&preview=1&t=1631648327713
+#EXTINF:-1 group-title="Sport", beIN sport 2
+https://d1sa3vjf6750ed.cloudfront.net/out/v1/de31d14d6b244d6da539bfc9f8a3ab37/index_1.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&session_data=1&preview=1&t=1631648415367
+#EXTINF:-1 group-title="Sport", beIN sport 3
+https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_1.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&t=1631648462582&abd=1
