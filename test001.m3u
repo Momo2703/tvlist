@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RotanaKids.live" group-title="Rotana", Rotana kids
+https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_1080p/chunks.m3u8?p=48&s=1631639454&e=1631725854&cf=1631725854&h=9be5cbb9e84561f77db4db864b7d74c0
+#EXTINF:-1 tvg-id="RotanaCinema.live" group-title="Rotana", Rotana Cinema
+https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/d1ab1ee1-99c0-44a2-a484-f31ef90ededb:GRQ/variant/e5aceddeef1d0336be7384252f95b21c/bandwidth/2225659.m3u8
