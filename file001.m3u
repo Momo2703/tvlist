@@ -9,3 +9,25 @@ https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama_1080p/chunks.m3u8?
 https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/5eac27fb-a09c-4288-a96d-878a3a09b42e:GRQ/variant/21bb8ac09f2b4f10342ae3eab6317e1f/bandwidth/949871.m3u8
 #EXTINF:-1 group-title="Rotana", Rotana Comedy
 https://rotananet.hibridcdn.net/rotana/comedy_abr/rotana/comedy_1080p/chunks.m3u8?p=50&s=1631641671&e=1631728071&cf=1631728071&h=b43cf8d07073225b6831d6af7cb063d0
+#EXTINF:-1 group-title="Rotana", Rotana Classic
+https://rotananet.hibridcdn.net/rotana/classical_abr/rotana/classical_1080p/chunks.m3u8?p=53&s=1631644486&e=1631730886&cf=1631730886&h=f72844f86a9bc5a5d35762ec0728159c
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="MBC", MBC 1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_2.m3u8
+#EXTINF:-1 group-title="MBC", MBC Action
+https://blogs.livehdchanel.live/mbc2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MBC", MBC Max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+#EXTINF:-1 group-title="MBC", MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
+#EXTINF:-1 group-title="MBC", MBC Masr
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
+#EXTINF:-1 group-title="MBC", MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
