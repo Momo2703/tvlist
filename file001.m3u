@@ -3,3 +3,9 @@
 https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_1080p/chunks.m3u8?p=48&s=1631639454&e=1631725854&cf=1631725854&h=9be5cbb9e84561f77db4db864b7d74c0
 #EXTINF:-1 tvg-id="RotanaCinema.live" group-title="Rotana", Rotana Cinema
 https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/d1ab1ee1-99c0-44a2-a484-f31ef90ededb:GRQ/variant/e5aceddeef1d0336be7384252f95b21c/bandwidth/2225659.m3u8
+#EXTINF:-1 tvg-id="RotanaDrama.live" group-title="Rotana", Rotana Drama
+https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama_1080p/chunks.m3u8?p=49&s=1631643059&e=1631729459&cf=1631729459&h=2c95d358c0bd79e4c6ee019e308cfde5
+#EXTINF:-1 tvg-id="RotanaKhalijia.live" group-title="Rotana", Rotana Khalijia
+https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/5eac27fb-a09c-4288-a96d-878a3a09b42e:GRQ/variant/21bb8ac09f2b4f10342ae3eab6317e1f/bandwidth/949871.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.live" group-title="Rotana", Rotana Classic
+https://rotananet.hibridcdn.net/rotana/comedy_abr/rotana/comedy_1080p/chunks.m3u8?p=50&s=1631641671&e=1631728071&cf=1631728071&h=b43cf8d07073225b6831d6af7cb063d0
